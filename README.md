@@ -4,7 +4,6 @@ Automation assessment for SAZIM
 
 # To install cypress:
 
-npm init
 npm install cypress --save-dev
 ================================
 
